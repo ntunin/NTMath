@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  Complex.cpp
+  dllmain.cpp
+  NTMath.cpp
+  Utils.cpp
+  Создание кода...
+     Создается библиотека C:\Users\Николай\Documents\GitHub\NTMathProblem\NTStandartProblemAlgorithm\x64\Debug\NTMath.lib и объект C:\Users\Николай\Documents\GitHub\NTMathProblem\NTStandartProblemAlgorithm\x64\Debug\NTMath.exp
+  NTMath.vcxproj -> C:\Users\Николай\Documents\GitHub\NTMathProblem\NTStandartProblemAlgorithm\x64\Debug\NTMath.dll
